@@ -16,7 +16,11 @@
  [2] N. Vervliet et al. Tensorlab 3.0. Available online. Mar. 2016. url: https://www.tensorlab.net.
  
  [3] Adam Danz (2022). boxplotGroup (https://www.mathworks.com/matlabcentral/fileexchange/74437-boxplotgroup), MATLAB Central File Exchange. Retrieved July 19, 2022.
+ ## 3. Copyrights
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the conditions listed in the 'license.txt' file are met.
  
+ 
+ ## 
  Authors: Zhehan Li, Kim Batselier (Thesis supervisor)
 
 Feel free to email me if you have any questions regrading the usage of this pacakage.
